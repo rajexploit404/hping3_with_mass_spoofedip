@@ -76,9 +76,4 @@ You can stop the attack by pressing **CTRL+C** (or **CTRL+Z**) during execution.
 - **hping3**: Tool for crafting and sending network packets.
 ---
 
-### key points:
-- The **README** includes a disclaimer about the ethical and legal usage of the tool.
-- Dependencies like **Python 3.x** and **hping3** are mentioned along with installation steps.
-- It provides clear instructions on how to use the tool, including the expected input for the target IP, port, and spoofed IP list.
-- The tool prints a **RAJTCP** banner on startup.
 
