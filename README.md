@@ -74,8 +74,6 @@ You can stop the attack by pressing **CTRL+C** (or **CTRL+Z**) during execution.
 
 ### Credits:
 - **hping3**: Tool for crafting and sending network packets.
-```
-
 ---
 
 ### key points:
