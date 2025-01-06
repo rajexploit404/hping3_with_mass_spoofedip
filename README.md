@@ -38,7 +38,7 @@ To run this tool, you need to install the following dependencies:
 
 ### Example:
 ```bash
-┌──(root㉿soc)-[~/hping3_with_mass_spoofedip]
+┌──(root㉿rajsec)-[~/hping3_with_mass_spoofedip]
 └─# python3 main.py
 
 ██████╗  █████╗      ████████╗ ██████╗██████╗  ██████╗
